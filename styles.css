@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: red;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+        display: flex;
+        text-align: center;
+        align-content: center;
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+
+#give-presents, #receive-presents {
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 3rem;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+ol {
+  margin: 2rem;
+  line-height: 1.65rem;
+  font-size: 1.25rem; 
+}
+
+#shuffle-button {
+    margin: 0 auto;
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 2rem;
+    border-radius: 15rem;
+    position: relative;
+    top: 75%;
+}
