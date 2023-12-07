@@ -1,18 +1,5 @@
-# co6664b71b4a1ae200b120967
+# Secret Santa Generator
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+Scrimba's JavaScriptmas Day 6. 🍦 Vanilla JS.
 
 <img src="./xmas-day-6.gif" width="500px" height="auto" alt="gif demo of site" />
