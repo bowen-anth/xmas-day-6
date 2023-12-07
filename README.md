@@ -15,4 +15,4 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 $ yarn watch # npm run watch
 ```
 
-<img src="./xmas-day-6.gif" width="500px" height="auto" alt="gif demo of site">
+<img src="./xmas-day-6.gif" width="500px" height="auto" alt="gif demo of site" />
